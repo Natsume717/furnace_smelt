@@ -1,0 +1,2 @@
+# furnace_smelt
+item_modifiersのfurnace_smletのデータパックサンプルになります。

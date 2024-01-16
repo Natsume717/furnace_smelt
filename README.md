@@ -1,5 +1,5 @@
 # furnace_smelt
-item_modifiersのfurnace_smletのデータパックサンプルになります。
+item_modifiersのfurnace_smletに関するデータパックサンプルになります。
 
 詳しくはブログ記事『[【マイクラ】コマンドで精錬を行うには【furnace_smelt】](https://natsumake.com/command_smelt/)』を参考にしてください。
 
